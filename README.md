@@ -1,0 +1,2 @@
+# oidctest
+fake oidc endpiont
