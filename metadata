@@ -5,7 +5,7 @@
     "private_key_jwt",
     "client_secret_basic"
   ],
-  "jwks_uri": "https://github.com/michaelhui8/oidctest/blob/main/jwks.json",
+  "jwks_uri": "https://raw.githubusercontent.com/michaelhui8/oidctest/main/jwks.json",
   "response_modes_supported": [
     "query",
     "fragment",
